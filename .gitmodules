@@ -1,0 +1,3 @@
+[submodule "custom2"]
+	path = custom2
+	url = git@github.com:Senset/custom2.git
